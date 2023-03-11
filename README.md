@@ -18,16 +18,16 @@
 
 #### 1.1.1 Data collection:
 	At this step data is to be loaded for further analysis.
-[Data collection link](https://github.com/eugene-kbl/Predicting-Student-Dropout-and-Academic-Success/blob/73a405d993a34893c1ac502c641313cf63bdc849/Project%20Files/Steps/Data_Collection.ipynb)	
+[Data collection link](https://github.com/eugene-kbl/Predicting-Student-Dropout-and-Academic-Success)	
 
 #### 1.1.2 Data cleaning and pre-processing:
 	Once the data is loaded, it must be checked for any issues which can 
 	potentially impact the accuracy and effectiveness of the model. 
 	Moreover, the following issues must be identified: 
 		a) incomplete data; 
-		b) incorrect data; 
-		c) irrelevant data; 
-		d) data imbalance; 
+		b) incorrect data;
+		c) data imbalance; 
+		d) irrelevant data; 
 		e) data duplication; 
 		f) data normalization.
 
