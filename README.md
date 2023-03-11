@@ -18,6 +18,7 @@
 
 #### 1.1.1 Data collection:
 	At this step data is to be loaded for further analysis.
+	Some text does here [Data collection](https://github.com/eugene-kbl/Predicting-Student-Dropout-and-Academic-Success/blob/main/Project%20Files/Steps/Data_Collection.ipynb)
 
 #### 1.1.2 Data cleaning and pre-processing:
 	Once the data is loaded, it must be checked for any issues which can 
