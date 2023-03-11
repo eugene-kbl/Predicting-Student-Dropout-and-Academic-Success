@@ -16,10 +16,10 @@
 	Data collection and preparation is one of the most important stages as the quality 
 	of the data greatly impacts the accuracy and effectiveness of the resulting model.
 
-#### Data collection:
+#### 1.1.1 Data collection:
 	At this step data is to be loaded for further analysis.
 
-#### Data cleaning and pre-processing:
+#### 1.1.2 Data cleaning and pre-processing:
 	Once the data is loaded, it must be checked for any issues which can 
 	potentially impact the accuracy and effectiveness of the model. 
 	Moreover, the following issues must be identified: 
@@ -103,8 +103,3 @@
 	This step involves analyzing the results of the model evaluation. 
 	Based on the analysis, the model may need to be refined or adjusted for performance improvement. 
 	
-## 2 Technical Reports
-### 2.1 TR1
-### 2.2 TR2
-### 2.3 TR3
-### 2.4 TR4
