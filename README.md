@@ -14,7 +14,7 @@
 
 ### 1.1 Data collection and preparation:
 	Data collection and preparation is one of the most important stages as the quality 
-	of the data greatly impacts the 	accuracy and effectiveness of the resulting model.
+	of the data greatly impacts the accuracy and effectiveness of the resulting model.
 
 #### Data collection:
 	At this step data is to be loaded for further analysis.
