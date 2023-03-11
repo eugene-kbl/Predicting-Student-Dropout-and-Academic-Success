@@ -1,5 +1,15 @@
 # Predicting Student Dropout and Academic Success
 
+## Table of context
+	1 Stages
+	 1.1 Data collection and preparation.
+	  1.1.1 Data collection.
+	  1.1.2 Data cleaning and pre-processing.
+	 1.2 Splitting the data.
+	 1.3 Model selection and training.
+	 1.4 Model evaluation.
+	 1.5 Model tuning and refinement.
+
 ## 1 Stages
 
 ### 1.1 Data collection and preparation:
