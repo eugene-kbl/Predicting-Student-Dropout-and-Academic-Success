@@ -13,15 +13,16 @@
 ## 1 Stages
 
 ### 1.1 Data collection and preparation:
-	Data collection and preparation is one of the most important stages as the quality of the data greatly impacts the 
-	accuracy and effectiveness of the resulting model.
+	Data collection and preparation is one of the most important stages as the quality 
+	of the data greatly impacts the 	accuracy and effectiveness of the resulting model.
 
 #### Data collection:
 	At this step data is to be loaded for further analysis.
 
 #### Data cleaning and pre-processing:
-	Once the data is loaded, it must be checked for any issues which can potentially impact the accuracy and 
-	effectiveness of the model. Moreover, the following issues must be identified: 
+	Once the data is loaded, it must be checked for any issues which can 
+	potentially impact the accuracy and effectiveness of the model. 
+	Moreover, the following issues must be identified: 
 		a) incomplete data; 
 		b) incorrect data; 
 		c) irrelevant data; 
@@ -33,6 +34,7 @@
 	Missing values or incomplete data can impact the accuracy of the model. 
 	Several techniques can be leveraged to address incomplete data, such as data imputation or 
 	removal of observations with missing values.
+
 ##### Incorrect data
 	Incorrect data or inaccurate data can also impact the accuracy of the model. 
 	Data accuracy refers to the consistency of data with reality. 
@@ -41,12 +43,13 @@
 
 ##### Irrelevant data
 	Including irrelevant data in the dataset can impact the accuracy of the model. 
-	This can be addressed through techniques such as feature selection, which involves selecting only the most relevant 
-	features, or removal of irrelevant data from the dataset. 
+	This can be addressed through techniques such as feature selection, which involves selecting only 
+	the most relevant features, or removal of irrelevant data from the dataset. 
 
 ##### Data imbalance
-	Data imbalance occurs when the classes in the dataset are not represented equally, which can lead to biased and 
-	inaccurate results. Several techniques can be used to address data imbalance, such as:
+	Data imbalance occurs when the classes in the dataset are not represented equally, which 
+	can lead to biased and inaccurate results. 
+	Several techniques can be used to address data imbalance, such as:
 		a) random over-sampling. 
 			This technique involves randomly removing samples from the majority class to balance the dataset;
 		b) random under-sampling. 
@@ -62,13 +65,14 @@
 			subset of the data, to create a more robust and accurate model;
 
 ##### Data duplication
-	Data duplication can occur when the same data is included in the dataset multiple times, which can bias the model 
-	towards certain features. 
+	Data duplication can occur when the same data is included in the dataset multiple times, which 
+	can bias the model towards certain features. 
 	This can be addressed through techniques such as deduplication, which involves identifying and removing duplicated data.
 
 ##### Data normalization
-	Data normalization is the process of scaling numerical data to a common range. Failing to normalize data can impact 
-	the accuracy of the model as features with larger ranges can dominate the model. 
+	Data normalization is the process of scaling numerical data to a common range. 
+	Failing to normalize data can impact the accuracy of the model as features with 
+	larger ranges can dominate the model. 
 	The following feature scaling techniques can be leveraged to address this: 
 		a) standardization;
 		b) mean normalization;
@@ -76,11 +80,13 @@
 		d) unit vector;
 
 ### 1.2 Splitting the data:
-	This step involves splitting the data into training and testing sets. The training set is used to train the model, 
-	while the testing set is used to evaluate the model's performance.
+	This step involves splitting the data into training and testing sets. 
+	The training set is used to train the model, while the testing set is used 
+	to evaluate the model's performance.
 
 ### 1.3 Model selection and training:
-	This step involves selecting a suitable algorithm(s) based on the characteristics of the data and research questions. 
+	This step involves selecting a suitable algorithm(s) based on the characteristics of 
+	the data and research questions. 
 	Selected algorithms are then trained on the training data.
 
 ### 1.4 Model evaluation:
@@ -97,3 +103,8 @@
 	This step involves analyzing the results of the model evaluation. 
 	Based on the analysis, the model may need to be refined or adjusted for performance improvement. 
 	
+## 2 Technical Reports
+### 2.1 TR1
+### 2.2 TR2
+### 2.3 TR3
+### 2.4 TR4
