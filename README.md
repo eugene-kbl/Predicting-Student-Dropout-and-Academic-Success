@@ -18,7 +18,6 @@
 
 #### 1.1.1 Data collection:
 	At this step data is to be loaded for further analysis.
-[Data collection link](https://github.com/eugene-kbl/Predicting-Student-Dropout-and-Academic-Success)	
 
 #### 1.1.2 Data cleaning and pre-processing:
 	Once the data is loaded, it must be checked for any issues which can 
@@ -80,15 +79,21 @@
 		c) min-max scaling;
 		d) unit vector;
 
+[Data collection and preparation link](https://github.com/eugene-kbl/Predicting-Student-Dropout-and-Academic-Success/blob/511500a44ab9d475851f643b4d9d81e7cc1a1275/Project%20Files/Data_Collection_and_Preparation.ipynb)
+
 ### 1.2 Splitting the data:
 	This step involves splitting the data into training and testing sets. 
 	The training set is used to train the model, while the testing set is used 
 	to evaluate the model's performance.
 
+[Splitting the data link]()
+
 ### 1.3 Model selection and training:
 	This step involves selecting a suitable algorithm(s) based on the characteristics of 
 	the data and research questions. 
 	Selected algorithms are then trained on the training data.
+
+[Model selection and training link]()
 
 ### 1.4 Model evaluation:
 	This step involves computing metrics to determine model's accuracy and effectiveness. 
@@ -100,7 +105,24 @@
 		e) ROC curve 
 		f) AUC 
 
+[Model evaluation link]()
+
 ### 1.5 Model tuning and refinement:
 	This step involves analyzing the results of the model evaluation. 
 	Based on the analysis, the model may need to be refined or adjusted for performance improvement. 
+
+[Model tuning and refinement link]()
+
+
+
+## 2 Technical Reports
+### 2.1 TR1
+### 2.2 TR2
+### 2.3 TR3
+### 2.4 TR4
+
+
+
+
+
 
