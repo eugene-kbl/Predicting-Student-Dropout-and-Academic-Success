@@ -18,6 +18,7 @@
 
 #### 1.1.1 Data collection:
 	At this step data is to be loaded for further analysis.
+[Data Collection link](https://github.com/eugene-kbl/Predicting-Student-Dropout-and-Academic-Success/blob/6fd383e01e459a901b4119cabd03bfc159b0881f/Project%20Files/1.1.1%20Data_Collection.ipynb)
 
 #### 1.1.2 Data cleaning and pre-processing:
 	Once the data is loaded, it must be checked for any issues which can 
@@ -29,22 +30,31 @@
 		d) irrelevant data; 
 		e) data duplication; 
 		f) data normalization.
+[Data Overview link](https://github.com/eugene-kbl/Predicting-Student-Dropout-and-Academic-Success/blob/b35829321b5ad25f80af88e28937470c8dd86347/Project%20Files/1.1.2%20Data_Overview.ipynb)
 
 ##### Incomplete data
 	Missing values or incomplete data can impact the accuracy of the model. 
 	Several techniques can be leveraged to address incomplete data, such as data imputation or 
 	removal of observations with missing values.
+[Incomplete data link](https://github.com/eugene-kbl/Predicting-Student-Dropout-and-Academic-Success/blob/35d5d47c1b055fe8dd18e310c09a8fbaa90adac1/Project%20Files/Incomplete_Data.ipynb)
 
 ##### Incorrect data
 	Incorrect data or inaccurate data can also impact the accuracy of the model. 
 	Data accuracy refers to the consistency of data with reality. 
 	The accurate data must reflect the feature information consistent with its objective. 
 	Techniques such as data cleaning can be leveraged to address incorrect data.
+[Incorrect data link](https://github.com/eugene-kbl/Predicting-Student-Dropout-and-Academic-Success/blob/35d5d47c1b055fe8dd18e310c09a8fbaa90adac1/Project%20Files/Incorrect_Data.ipynb)
 
 ##### Irrelevant data
 	Including irrelevant data in the dataset can impact the accuracy of the model. 
 	This can be addressed through techniques such as feature selection, which involves selecting only 
 	the most relevant features, or removal of irrelevant data from the dataset. 
+[Irrelevant data link](https://github.com/eugene-kbl/Predicting-Student-Dropout-and-Academic-Success/blob/35d5d47c1b055fe8dd18e310c09a8fbaa90adac1/Project%20Files/Irrelevant_Data.ipynb)
+
+##### Feature selection
+	Following the exclusion of irrelevant data, this step involves selecting features which are the most 
+	relevant features in order to improve the performance of a machine learning model. 
+[Feature selection link]()
 
 ##### Data imbalance
 	Data imbalance occurs when the classes in the dataset are not represented equally, which 
@@ -63,11 +73,13 @@
 		e) ensemble techniques. 
 			This technique involves combining multiple classification models, each trained on a different 
 			subset of the data, to create a more robust and accurate model;
+[Data imbalance link](https://github.com/eugene-kbl/Predicting-Student-Dropout-and-Academic-Success/blob/35d5d47c1b055fe8dd18e310c09a8fbaa90adac1/Project%20Files/Data_Imbalance.ipynb)
 
 ##### Data duplication
 	Data duplication can occur when the same data is included in the dataset multiple times, which 
 	can bias the model towards certain features. 
 	This can be addressed through techniques such as deduplication, which involves identifying and removing duplicated data.
+[Data duplication link](https://github.com/eugene-kbl/Predicting-Student-Dropout-and-Academic-Success/blob/35d5d47c1b055fe8dd18e310c09a8fbaa90adac1/Project%20Files/Duplicated_Data.ipynb)
 
 ##### Data normalization
 	Data normalization is the process of scaling numerical data to a common range. 
@@ -78,8 +90,9 @@
 		b) mean normalization;
 		c) min-max scaling;
 		d) unit vector;
+[Data normalization link](https://github.com/eugene-kbl/Predicting-Student-Dropout-and-Academic-Success/blob/35d5d47c1b055fe8dd18e310c09a8fbaa90adac1/Project%20Files/Data_Normalization.ipynb)
 
-[Data collection and preparation link](https://github.com/eugene-kbl/Predicting-Student-Dropout-and-Academic-Success/blob/511500a44ab9d475851f643b4d9d81e7cc1a1275/Project%20Files/Data_Collection_and_Preparation.ipynb)
+[Combined Data collection and preparation link](https://github.com/eugene-kbl/Predicting-Student-Dropout-and-Academic-Success/blob/511500a44ab9d475851f643b4d9d81e7cc1a1275/Project%20Files/Data_Collection_and_Preparation.ipynb)
 
 ### 1.2 Splitting the data:
 	This step involves splitting the data into training and testing sets. 
